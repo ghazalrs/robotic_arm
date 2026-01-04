@@ -1,5 +1,6 @@
 import camera
 import cv2
+import image_encoding
 
 def main():
     cap = camera.init_camera()
